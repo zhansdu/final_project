@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-5">
+    <div class="py-5 bg-lightgrey">
         <div class="text_title text-uppercase">WHERE TO SEARCH?</div>
         <div class="padding my-5">
             <div class="wts row justify-content-between">

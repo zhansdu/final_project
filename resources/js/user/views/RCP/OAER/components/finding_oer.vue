@@ -67,7 +67,7 @@
 </template>
 <script>
 import showmore from '../../../../assets/images/showmore.png'
-import google from '../../../../assets/images/Google1.png'
+import google from '../../../../assets/images/google.png'
 import youtube from '../../../../assets/images/youtube.png'
 export default {
     data: function() {

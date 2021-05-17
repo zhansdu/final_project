@@ -165,5 +165,10 @@ export default {
     "oaer": {
         "about": "About OERs",
         "finding": "Finding OERs"
+    },
+    "instructor": {
+        "ask_l": "Ask a librarian",
+        "faq": "FAQ",
+        "info": "Informative"
     }
 }

@@ -13,7 +13,6 @@
                     <img class="img-fluid" v-bind:src="imagePYR6">
                     <div class="red_box row">Boolean Operators</div>
                     <img class="img-fluid" v-bind:src="imagePYR7">
-
                 </div>
             </div>
         </div>
@@ -44,9 +43,7 @@
                         <li>Apply searching tips</li>
                         <li>Refine results</li>
                     </ul>
-                    <div class="red_box">Selected Library Books</div>
-
-                </div>
+                </div> 
             </div>
         </div>
     </div>

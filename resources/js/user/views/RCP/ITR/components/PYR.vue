@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-5">
+    <div class="pt-5 bg-lightgrey">
         <div class="text_title text-uppercase">PLANING YOUR RESEARCH</div>
         <div class="padding my-5">
             <div class="pyr row justify-content-between">
